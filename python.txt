@@ -1,0 +1,107 @@
+Here are **50 basic programming practice questions** (perfect for beginners in C/C++/Python/Java).
+I’ve arranged them from **very easy → slightly harder** so you can improve step by step 👇
+
+---
+
+# 🟢 Level 1: Very Basic (1–15)
+
+1. Print “Hello World”
+2. Take input and print it
+3. Add two numbers
+4. Find sum of N natural numbers
+5. Check even or odd
+6. Find largest of two numbers
+7. Find largest of three numbers
+8. Swap two numbers (with temp)
+9. Swap two numbers (without temp)
+10. Find square and cube of a number
+11. Convert Celsius to Fahrenheit
+12. Calculate simple interest
+13. Check positive, negative, or zero
+14. Print ASCII value of a character
+15. Find quotient and remainder
+
+---
+
+# 🟡 Level 2: Conditions & Loops (16–30)
+
+16. Check leap year
+17. Print numbers from 1 to N
+18. Print even numbers from 1 to N
+19. Print odd numbers from 1 to N
+20. Find factorial of a number
+21. Reverse a number
+22. Check palindrome number
+23. Count digits in a number
+24. Find sum of digits
+25. Check Armstrong number
+26. Print multiplication table
+27. Find power of a number
+28. Find GCD of two numbers
+29. Find LCM of two numbers
+30. Print Fibonacci series
+
+---
+
+# 🔵 Level 3: Patterns (31–40)
+
+31. Print right triangle (* pattern)
+32. Print inverted triangle
+33. Print pyramid pattern
+34. Print number triangle
+35. Print Floyd’s triangle
+36. Print Pascal’s triangle
+37. Hollow square pattern
+38. Diamond pattern
+39. Number pyramid
+40. Reverse pyramid
+
+---
+
+# 🟣 Level 4: Arrays (41–50)
+
+41. Find largest element in array
+42. Find smallest element in array
+43. Find sum of array elements
+44. Find average of array
+45. Reverse an array
+46. Count even and odd numbers in array
+47. Search element in array (linear search)
+48. Sort array (ascending order)
+49. Find second largest element
+50. Remove duplicates from array
+
+---
+
+# 🧠 How to use this list (important)
+
+👉 Don’t just read—**practice daily like this:**
+
+* Day 1: Q1–10
+* Day 2: Q11–20
+* Day 3: Q21–30
+* Day 4: Patterns
+* Day 5: Arrays
+
+---
+
+# 💡 Pro Tip (very important)
+
+If your goal is **CSE / placement / AI future**:
+
+After these 50:
+➡️ Start:
+
+* DSA (arrays, strings, recursion)
+* Platforms:
+
+  * LeetCode
+  * CodeChef
+
+---
+
+If you want, I can:
+✔ Give **solutions of all 50 in C++ or Python**
+✔ Or make a **30-day coding roadmap for you (beginner → job level)**
+
+Just tell me 👍
